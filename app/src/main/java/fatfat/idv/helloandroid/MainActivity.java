@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
     //註解
+    //火烤 就4好ㄘ~
 
 public class MainActivity extends ActionBarActivity {
 
